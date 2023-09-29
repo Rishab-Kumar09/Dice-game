@@ -46,3 +46,10 @@ footer {
   border-radius: 50%;
   border: 10px solid white;
 }
+
+/*  :hover defines what happens when you hover on an element  */
+
+.btn:hover{ 
+  transition-duration: 0.5s;
+  background-color: rgb(153, 228, 5);
+}
